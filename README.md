@@ -8,7 +8,7 @@ This repository contains the implementation for **Assignment 2**, which focuses 
 - Loading a word into a character array list
 - Testing the word loading and display logic
 
----
+
 
 ##Overview
 
@@ -25,7 +25,7 @@ The `TestWordShuffle` class:
 - Displays the word with all characters hidden
 - Reveals one random character for testing purposes
 
----
+
 
 ## How to Run
 
